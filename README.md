@@ -1,15 +1,12 @@
 ### Hey there 👋
 
-<div align="center">
+<img src="https://github.com/luke-who/luke-who/blob/main/cmatrix.gif" alt="Welcome!" width="500"/> 
+
+<div align="left">
   <samp>
-    I'm <a href="https://twitter.com/luke_zh_">Luke</a> currently a Final Year MEng Computer Science and Electronics(CSE) student at <a href="https://twitter.com/BristolUni">University of Bristol </a> and aspiring software developer. My interest lies in field of Web3 Technologies, Software Development, DevOps and Web Security. When I'm not working you'll often find me petting dogs🐕
+    🎓 Final Year MEng Computer Science and Electronics(CSE) student @ <a href="https://twitter.com/BristolUni">University of Bristol </a>
+       Aspiring software developer. My interest lies in field of Web3 Technologies, Software Development, DevOps and Web Security. When I'm not working you'll often find me petting dogs🐕
   </samp>
-</div>
-
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
 </div>
 
 <!-------------------------------------------------------------------------------------------------------------------->

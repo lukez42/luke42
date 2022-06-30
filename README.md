@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-<img src="https://github.com/luke-who/luke-who/blob/main/cmatrix.gif" alt="Welcome!" width="500"/> 
+<img src="https://github.com/luke-who/luke-who/blob/main/matrix_programmer.gif" alt="Welcome!" width="500"/> 
 
 <div align="left">
   <samp>

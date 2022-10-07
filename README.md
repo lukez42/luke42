@@ -4,8 +4,8 @@
 
 <div align="left">
   <samp>
-    🎓 I'm a Final Year MEng Computer Science and Electronics(CSE) student @ <a href="https://twitter.com/BristolUni">University of Bristol </a>
-       and aspiring software developer. My interest lies in field of Web3 Technologies, Software Development, DevOps and Web Security. When I'm not working you'll often find me petting dogs🐕
+    🎓 I'm a Computer Science and Electronics(CSE) graduate (MEng) from @ <a href="https://twitter.com/BristolUni">University of Bristol </a>
+       and aspiring software developer. My interest lies in field of Web3 Technologies, Software Development, DevOps and Web Security. When I'm not working you'll often find me petting dogs 🐕 or learning about science and technology (not at the same time)
   </samp>
 </div>
 

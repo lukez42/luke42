@@ -15,6 +15,9 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=luke-who&style=flat-square)
 
+
+![snake svg](https://github.com/luke-who/luke-who/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <i>Random dev joke of the day! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
@@ -45,7 +48,6 @@
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
-
 
 <!--
 <i>Follow me on the web:</i><br>

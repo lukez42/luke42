@@ -13,7 +13,8 @@
 
 <a href="#"><img height="152px" src="https://github-readme-stats.vercel.app/api?username=luke-who&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /><!-- wi*quL3fcV --><img height="152px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-who&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=github_dark" /></a>
 
-![snake svg](https://github.com/luke-who/luke-who/blob/output/github-contribution-grid-snake.svg)
+![Github Snake Light](https://github.com/luke-who/luke-who/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Github Snake Dark](https://github.com/luke-who/luke-who/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=luke-who&style=flat-square)
 

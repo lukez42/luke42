@@ -1,11 +1,13 @@
 ### Hey there 👋
-
+<!--
 <img src="https://github.com/luke-who/luke-who/blob/main/matrix_programmer.gif" alt="Welcome!" width="500"/> 
+-->
+<img src="https://github.com/luke-who/line-following-robot/blob/c19aca91ed4136611398dbebd6b8b614ff919161/asset/video/robot_line_following_72_degree_720p.gif" alt="Welcome!" width="500"/>
 
 <div align="left">
   <samp>
-    🎓 I'm a Computer Science and Electronics(CSE) graduate (MEng) from @ <a href="https://twitter.com/BristolUni">University of Bristol </a>
-       and aspiring software developer. My interest lies in field of Software Development, DevOps, AI and Robotics. When I'm not working you'll often find me petting dogs 🐕 or learning about the latest science and technology (not at the same time though)
+    I'm a Computer Science and Electronics(CSE) graduate (MEng) 🎓 from @ <a href="https://twitter.com/BristolUni">University of Bristol </a>
+       and aspiring software developer. My interest lies in the fields of Software Development, DevOps, AI and Robotics. Check out some of the cool projects I have pinned down below 👇.
   </samp>
 </div>
 

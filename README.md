@@ -1,8 +1,8 @@
 <!--
-<img src="https://github.com/luke-who/luke-who/blob/main/matrix_programmer.gif" alt="Welcome!" width="500"/> 
+<img src="https://github.com/luke42/luke42/blob/main/matrix_programmer.gif" alt="Welcome!" width="500"/> 
 -->
 <!--
-<img src="https://github.com/luke-who/line-following-robot/blob/c19aca91ed4136611398dbebd6b8b614ff919161/asset/video/robot_line_following_72_degree_720p.gif" alt="Welcome!" width="500"/>
+<img src="https://github.com/luke42/line-following-robot/blob/c19aca91ed4136611398dbebd6b8b614ff919161/asset/video/robot_line_following_72_degree_720p.gif" alt="Welcome!" width="500"/>
 -->
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Welcome!"/>
 
@@ -17,12 +17,12 @@
 
 <!-------------------------------------------------------------------------------------------------------------------->
 
-<a href="#"><img height="152px" src="https://github-readme-stats.vercel.app/api?username=luke-who&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /><!-- wi*quL3fcV --><img height="152px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-who&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=github_dark" /></a>
+<a href="#"><img height="152px" src="https://github-readme-stats.vercel.app/api?username=luke42&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /><!-- wi*quL3fcV --><img height="152px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke42&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=github_dark" /></a>
 
-![Github Snake Light](https://github.com/luke-who/luke-who/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Github Snake Dark](https://github.com/luke-who/luke-who/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Github Snake Light](https://github.com/luke42/luke42/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Github Snake Dark](https://github.com/luke42/luke42/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=luke-who&style=flat-square)
+![Profile View Counter](https://komarev.com/ghpvc/?username=luke42&style=flat-square)
 
 <div>
 <i>Random dev joke of the day! (create your own by clicking here ↓)</i><br>
@@ -69,7 +69,7 @@
 
 
 <!--
-**luke-who/luke-who** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**luke42/luke42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

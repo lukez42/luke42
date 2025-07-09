@@ -10,8 +10,7 @@
 
 <div align="left">
   <samp>
-    I'm a Computer Science and Electronics(CSE) graduate (MEng) 🎓 from @ <a href="https://twitter.com/BristolUni">University of Bristol </a>
-       and aspiring Data Engineer. My interest lies in the fields of Software Development, DevOps, AI and Robotics. Check out some of the cool projects I have pinned down below 👇.
+    I'm a Data Engineer with a Computer Science and Electronics(CSE) background 🎓 from @ <a href="https://twitter.com/BristolUni">University of Bristol </a>. My interest lies in the fields of Software Development, DevOps, AI and Robotics. Check out some of the cool projects I have pinned down below 👇.
   </samp>
 </div>
 
